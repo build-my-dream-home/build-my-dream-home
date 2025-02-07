@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-buildmydreamhouse-dev-abf85-authRole",
+      "UnauthRoleArn": "arn:aws:iam::242201302959:role/amplify-buildmydreamhouse-dev-abf85-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::242201302959:role/amplify-buildmydreamhouse-dev-abf85-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-buildmydreamhouse-dev-abf85-deployment",
+      "UnauthRoleName": "amplify-buildmydreamhouse-dev-abf85-unauthRole",
+      "StackName": "amplify-buildmydreamhouse-dev-abf85",
+      "StackId": "arn:aws:cloudformation:us-east-1:242201302959:stack/amplify-buildmydreamhouse-dev-abf85/48af9960-e122-11ef-80f3-0ebb0073c95b",
+      "AmplifyAppId": "d2iwzeim71g3f7"
+    },
+    "categories": {
+      "auth": {
+        "buildmydreamhouse74ac23a9": {}
+      }
+    }
+  }
+}
