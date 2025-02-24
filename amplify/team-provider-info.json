@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "buildmydreamhouse74ac23a9": {}
+      },
+      "api": {
+        "buildmydreamhouse": {}
       }
     }
   }
